@@ -1,0 +1,50 @@
+{
+    "name": "vue3-element-admin",
+    "version": "1.0.0",
+    "scripts": {
+        "dev": "vite serve --mode development",
+        "build": "vite build --mode production"
+    },
+    "dependencies": {
+        "@element-plus/icons-vue": "^2.3.1",
+        "axios": "^1.6.8",
+        "better-scroll": "^2.4.2",
+        "default-passive-events": "^2.0.0",
+        "echarts": "^5.2.2",
+        "element-plus": "^2.2.2",
+        "js-cookie": "^3.0.1",
+        "nprogress": "^0.2.0",
+        "path-browserify": "^1.0.1",
+        "path-to-regexp": "^6.2.0",
+        "pinia": "^2.0.12",
+        "pinia-plugin-persistedstate": "^3.2.1",
+        "screenfull": "^6.0.0",
+        "sortablejs": "^1.15.0",
+        "vue": "^3.2.25",
+        "vue-i18n": "^9.1.9",
+        "vue-router": "^4.0.12",
+        "xlsx": "^0.18.5"
+    },
+    "devDependencies": {
+        "@commitlint/cli": "^16.2.3",
+        "@commitlint/config-conventional": "^16.2.1",
+        "@types/node": "^16.11.7",
+        "@types/nprogress": "^0.2.0",
+        "@types/path-browserify": "^1.0.0",
+        "@typescript-eslint/eslint-plugin": "^5.19.0",
+        "@typescript-eslint/parser": "^5.19.0",
+        "@vitejs/plugin-vue": "^5.0.4",
+        "eslint": "^8.14.0",
+        "eslint-config-prettier": "^8.5.0",
+        "eslint-plugin-prettier": "^4.0.0",
+        "eslint-plugin-vue": "^8.6.0",
+        "fast-glob": "^3.2.11",
+        "prettier": "^2.6.2",
+        "sass": "1.32.12",
+        "typescript": "^4.5.4",
+        "vite": "^5.1.6",
+        "vite-plugin-svg-icons": "^2.0.1",
+        "vue-tsc": "^0.34.7"
+    },
+    "license": "MIT"
+}
