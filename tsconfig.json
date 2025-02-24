@@ -1,5 +1,7 @@
 {
   "compilerOptions": {
+    "allowJs": true, // 允许在项目中包含 JS 文件
+    "checkJs": false, // 不检查 JS 文件（如果你不希望 TypeScript 检查它们）
     "target": "esnext",
     "useDefineForClassFields": true,
     "module": "esnext",
